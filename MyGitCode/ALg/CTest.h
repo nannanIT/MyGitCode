@@ -10,6 +10,6 @@
 
 #include <stdio.h>
 
-void hello(void);
+void helloWorld(void);
 
 #endif /* CTest_h */

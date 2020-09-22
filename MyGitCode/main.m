@@ -8,12 +8,14 @@
 #import <Foundation/Foundation.h>
 #import "Sort.h"
 #import "CTest.h"
+#import "LNode.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        bubbleTest();
-        quickSortTest();
-        hello();
+        // bubbleTest();
+        // quickSortTest();
+        // helloWorld();
+        lnodeTest();
     }
     return 0;
 }

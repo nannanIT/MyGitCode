@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
+void lnodeTest(void);
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface LNode : NSObject

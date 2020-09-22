@@ -7,6 +7,6 @@
 
 #include "CTest.h"
 
-void hello() {
-    printf("Hello world\n");
+void helloWorld() {
+    printf("Hello world.\n");
 }
