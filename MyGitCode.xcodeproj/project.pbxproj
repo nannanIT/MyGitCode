@@ -76,6 +76,8 @@
 			isa = PBXGroup;
 			children = (
 				E818B5A025182D2200D77A2E /* ALg */,
+				E8C216C2251A0D6200805732 /* Design */,
+				E8C216C3251A0D8400805732 /* Book */,
 				E818B59825182D0D00D77A2E /* main.m */,
 			);
 			path = MyGitCode;
@@ -98,6 +100,20 @@
 				E8C216522519E70400805732 /* Prime.c */,
 			);
 			path = ALg;
+			sourceTree = "<group>";
+		};
+		E8C216C2251A0D6200805732 /* Design */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Design;
+			sourceTree = "<group>";
+		};
+		E8C216C3251A0D8400805732 /* Book */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Book;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
