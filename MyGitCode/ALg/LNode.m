@@ -25,8 +25,11 @@ NSInteger lengthOfLNode(LNode *head) {
 }
 
 LNode *findKthNode(LNode *head, NSInteger k) {
+    if (head == nil || k <= 0) {
+        return nil;
+    }
     LNode *node = head;
-    while (node != nil && k > 0) {
+    while (node != nil && k > 1) {
         node = node.next;
         k--;
     }
@@ -48,6 +51,16 @@ void lnodeTest() {
     }
     NSInteger len = lengthOfLNode(head);
     assert(len == 7);
+    LNode *node = findKthNode(head, 1);
+    assert(node != nil && node.value == 0);
+    node = findKthNode(head, 7);
+    assert(node.value == 6);
+    node = findKthNode(head, 0);
+    assert(node == nil);
+    node = findKthNode(head, 8);
+    assert(node == nil);
+    node = findKthNode(head, 9);
+    assert(node == nil);
 }
 
 @implementation LNode

@@ -16,6 +16,7 @@ int main(int argc, const char * argv[]) {
         // quickSortTest();
         // helloWorld();
         lnodeTest();
+        NSLog(@"Hello world");
     }
     return 0;
 }
