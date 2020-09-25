@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
+void treeTest(void);
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface Tree : NSObject

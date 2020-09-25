@@ -9,13 +9,15 @@
 #import "Sort.h"
 #import "CTest.h"
 #import "LNode.h"
+#import "Tree.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // bubbleTest();
         // quickSortTest();
-        // helloWorld();
+//         helloWorld();
         lnodeTest();
+//        treeTest();
         NSLog(@"Hello world");
     }
     return 0;

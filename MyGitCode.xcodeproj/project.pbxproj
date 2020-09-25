@@ -14,6 +14,7 @@
 		E8C2164B2519DE0A00805732 /* CTest.c in Sources */ = {isa = PBXBuildFile; fileRef = E8C2164A2519DE0A00805732 /* CTest.c */; };
 		E8C2164F2519E26E00805732 /* Tree.m in Sources */ = {isa = PBXBuildFile; fileRef = E8C2164E2519E26E00805732 /* Tree.m */; };
 		E8C216532519E70400805732 /* Prime.c in Sources */ = {isa = PBXBuildFile; fileRef = E8C216522519E70400805732 /* Prime.c */; };
+		E8FE251A251C47C000E08D8C /* Stack.m in Sources */ = {isa = PBXBuildFile; fileRef = E8FE2519251C47C000E08D8C /* Stack.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,8 @@
 		E8C216C4251A0E3200805732 /* Design.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Design.md; sourceTree = "<group>"; };
 		E8C216C5251A0E4E00805732 /* Book.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Book.md; sourceTree = "<group>"; };
 		E8C216C6251A0E6300805732 /* Alg.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Alg.md; sourceTree = "<group>"; };
+		E8FE2518251C47C000E08D8C /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
+		E8FE2519251C47C000E08D8C /* Stack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				E8C2164E2519E26E00805732 /* Tree.m */,
 				E8C216512519E70400805732 /* Prime.h */,
 				E8C216522519E70400805732 /* Prime.c */,
+				E8FE2518251C47C000E08D8C /* Stack.h */,
+				E8FE2519251C47C000E08D8C /* Stack.m */,
 			);
 			path = ALg;
 			sourceTree = "<group>";
@@ -178,6 +183,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8FE251A251C47C000E08D8C /* Stack.m in Sources */,
 				E8C216472519DDE200805732 /* LNode.m in Sources */,
 				E8C216432519DDCE00805732 /* ArrayRelate.m in Sources */,
 				E8C216532519E70400805732 /* Prime.c in Sources */,
