@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
+void maxSequenceSumTest(void);
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface ArrayRelate : NSObject

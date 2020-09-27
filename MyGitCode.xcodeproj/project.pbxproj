@@ -34,6 +34,7 @@
 		E818B59825182D0D00D77A2E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E818B5A625182D6100D77A2E /* Sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sort.h; sourceTree = "<group>"; };
 		E818B5A725182D6100D77A2E /* Sort.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sort.m; sourceTree = "<group>"; };
+		E8254180251F1BD2000A7D90 /* TypeWrite.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TypeWrite.md; sourceTree = "<group>"; };
 		E8C216412519DDCE00805732 /* ArrayRelate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayRelate.h; sourceTree = "<group>"; };
 		E8C216422519DDCE00805732 /* ArrayRelate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArrayRelate.m; sourceTree = "<group>"; };
 		E8C216452519DDE200805732 /* LNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNode.h; sourceTree = "<group>"; };
@@ -123,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				E8C216C5251A0E4E00805732 /* Book.md */,
+				E8254180251F1BD2000A7D90 /* TypeWrite.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";

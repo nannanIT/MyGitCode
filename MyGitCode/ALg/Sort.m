@@ -24,16 +24,20 @@ void validateOrderedArray(int A[], int len) {
     }
 }
 
-void bubbleSort(int A[], int len) {
-    if (len <= 0) {
+void swap(int A[], int n, int m) {
+    if (n == m) {
         return;
     }
+    int t = A[n];
+    A[n] = A[m];
+    A[m] = t;
+}
+
+void bubbleSort(int A[], int len) {
     for (int k = 1; k < len; k++) {
         for (int i = 0; i < len - k; i++) {
             if (A[i] > A[i+1]) {
-                int tmp = A[i];
-                A[i] = A[i+1];
-                A[i+1] = tmp;
+                swap(A, i, i+1);
             }
         }
     }
@@ -75,15 +79,6 @@ void quickSort(int A[], int first, int last) {
     A[mid] = target;
     quickSort(A, first, mid - 1);
     quickSort(A, mid + 1, last);
-}
-
-void swap(int A[], int n, int m) {
-    if (n == m) {
-        return;
-    }
-    int tmp = A[n];
-    A[n] = A[m];
-    A[m] = tmp;
 }
 
 void quickSort2(int A[], int first, int last) {

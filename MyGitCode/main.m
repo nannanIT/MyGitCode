@@ -10,14 +10,16 @@
 #import "CTest.h"
 #import "LNode.h"
 #import "Tree.h"
+#import "ArrayRelate.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // bubbleTest();
+         bubbleTest();
         // quickSortTest();
 //         helloWorld();
-        lnodeTest();
+//        lnodeTest();
 //        treeTest();
+        maxSequenceSumTest();
         NSLog(@"Hello world");
     }
     return 0;

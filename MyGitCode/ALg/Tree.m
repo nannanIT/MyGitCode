@@ -84,6 +84,34 @@ void postTravelTree(TreeNode *tree) {
     }
 }
 
+void insertSortNode(TreeNode *node, NSInteger value) {
+    if (!node) {
+        return;
+    }
+    if (value <= node.value) {
+        if (node.leftChild) {
+            insertSortNode(node.leftChild, value);
+        } else {
+            node.leftChild = [[TreeNode alloc] initWithValue:value];
+        }
+    } else {
+        if (node.rightChild) {
+            insertSortNode(node.rightChild, value);
+        } else {
+            node.rightChild = [[TreeNode alloc] initWithValue:value];
+        }
+    }
+}
+
+void testInsertSort() {
+    TreeNode *tree = [[TreeNode alloc] initWithValue:6];
+    NSInteger A[] = {6, 2, 4, 5, 3, 8 , 1, 7};
+    for (NSInteger i = 1; i < 8; i++) {
+        insertSortNode(tree, A[i]);
+    }
+    preTravelTree(tree);
+}
+
 void treeTest() {
     TreeNode *tree1 = [[TreeNode alloc] initWithValue:1];
     TreeNode *tree2 = [[TreeNode alloc] initWithValue:2];
@@ -101,8 +129,9 @@ void treeTest() {
     tree3.leftChild = tree6;
     tree3.rightChild = tree7;
 //    preTravelTree(tree1);
-    inTravelTree(tree1);
+//    inTravelTree(tree1);
 //    postTravelTree(tree1);
+    testInsertSort();
 }
 
 @implementation Tree
