@@ -14,12 +14,12 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-         bubbleTest();
-        // quickSortTest();
+//         bubbleTest();
+         quickSortTest();
 //         helloWorld();
 //        lnodeTest();
 //        treeTest();
-        maxSequenceSumTest();
+//        maxSequenceSumTest();
         NSLog(@"Hello world");
     }
     return 0;

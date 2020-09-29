@@ -10,7 +10,10 @@ Hurry up, or we will be late.
 as quickly as you can
 I will give you a big suprise
 Check it carefully.
- 
+build a attributed string
+int or bool is a simple symbol
+NBA is my favorite hobby, where amazing happens. 
+
 it you we return quickly open look join give ip to to it talk too two two too yellow play rude 
 deep mind voice
 check expect strong string array is common  take if no yes true false default
@@ -19,4 +22,5 @@ application framework array service provider interfce protocal assign attribute 
 control data cycle debug dellocate define definition dynamic effect efficient enum type struct equal enum typedef 
 
 west east north south
-
+qucik help
+A view that presents data using rows arranged in a single column.
