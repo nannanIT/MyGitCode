@@ -49,6 +49,7 @@
 		E8C216C5251A0E4E00805732 /* Book.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Book.md; sourceTree = "<group>"; };
 		E8C216C6251A0E6300805732 /* Alg.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Alg.md; sourceTree = "<group>"; };
 		E8C870D52536F9B2003701C9 /* Compile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Compile.md; sourceTree = "<group>"; };
+		E8C87101253977A5003701C9 /* Bochs.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Bochs.md; sourceTree = "<group>"; };
 		E8FE2518251C47C000E08D8C /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
 		E8FE2519251C47C000E08D8C /* Stack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -127,6 +128,7 @@
 				E8C216C5251A0E4E00805732 /* Book.md */,
 				E8254180251F1BD2000A7D90 /* TypeWrite.md */,
 				E8C870D52536F9B2003701C9 /* Compile.md */,
+				E8C87101253977A5003701C9 /* Bochs.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";
