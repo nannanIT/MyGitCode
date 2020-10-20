@@ -2,7 +2,7 @@
 
 ## 状态
 
-![img](git.jpg)
+![img](https://github.com/nannanIT/MyGitCode/blob/master/MyGitCode/Resource/git.jpg)
 
 * **untracked:** 未跟踪状态， 此文件在文件夹， 但并没有加入到git库, 不参与版本控制，通过 `git add` 将状态变为 **staged**；
 
