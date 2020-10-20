@@ -37,6 +37,8 @@
 		E8254180251F1BD2000A7D90 /* TypeWrite.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TypeWrite.md; sourceTree = "<group>"; };
 		E8B28E73253E9E8900D9ADC9 /* Fork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fork.h; sourceTree = "<group>"; };
 		E8B28E74253E9E8900D9ADC9 /* Fork.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fork.c; sourceTree = "<group>"; };
+		E8B28FA8253EED4900D9ADC9 /* Git.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Git.md; sourceTree = "<group>"; };
+		E8B28FAB253EEDE800D9ADC9 /* git.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = git.jpg; sourceTree = "<group>"; };
 		E8C216412519DDCE00805732 /* ArrayRelate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayRelate.h; sourceTree = "<group>"; };
 		E8C216422519DDCE00805732 /* ArrayRelate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArrayRelate.m; sourceTree = "<group>"; };
 		E8C216452519DDE200805732 /* LNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNode.h; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				E818B5A025182D2200D77A2E /* ALg */,
 				E8C216C2251A0D6200805732 /* Design */,
 				E8C216C3251A0D8400805732 /* Book */,
+				E8B28FA9253EED9F00D9ADC9 /* Resource */,
 				E818B59825182D0D00D77A2E /* main.m */,
 			);
 			path = MyGitCode;
@@ -123,6 +126,14 @@
 			path = Foundation;
 			sourceTree = "<group>";
 		};
+		E8B28FA9253EED9F00D9ADC9 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				E8B28FAB253EEDE800D9ADC9 /* git.jpg */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
 		E8C216C2251A0D6200805732 /* Design */ = {
 			isa = PBXGroup;
 			children = (
@@ -134,6 +145,7 @@
 		E8C216C3251A0D8400805732 /* Book */ = {
 			isa = PBXGroup;
 			children = (
+				E8B28FA8253EED4900D9ADC9 /* Git.md */,
 				E8C216C5251A0E4E00805732 /* Book.md */,
 				E8C870D52536F9B2003701C9 /* Compile.md */,
 				E8C87101253977A5003701C9 /* Bochs.md */,
