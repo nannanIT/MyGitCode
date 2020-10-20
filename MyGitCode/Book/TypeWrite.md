@@ -1,7 +1,7 @@
 #  TypeWrite
 
 
-Hello world! 
+Hello world!  hello world! Hello world!
 I find a good boy in the forest.
 You can speak good English.
 I love you so much.
@@ -14,6 +14,8 @@ build a attributed string
 int or bool is a simple symbol
 NBA is my favorite hobby, where amazing happens. 
 
+NBA is my favorite hobby.
+
 it you we return quickly open look join give ip to to it talk too two two too yellow play rude 
 deep mind voice
 check expect strong string array is common  take if no yes true false default
@@ -22,5 +24,13 @@ application framework array service provider interfce protocal assign attribute 
 control data cycle debug dellocate define definition dynamic effect efficient enum type struct equal enum typedef 
 
 west east north south
-qucik help
+qucik help quick help open need define errir remind deep play yellow we element test take even north hide edge type
 A view that presents data using rows arranged in a single column.
+
+quick help quick help mind hello world hello world hello world hello world you can speak english north south quick quick help open cycle server server server define include include include include include include cycle debug control component constant
+
+close write read file error while if buffer failed success print printf 
+close write read file error while while if while while while while while bufffer failed success print print int print
+
+foundation foundation foundation
+foundation hello world foundation while while while buffer while

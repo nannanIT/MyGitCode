@@ -7,20 +7,19 @@
 
 #import <Foundation/Foundation.h>
 #import "Sort.h"
-#import "CTest.h"
 #import "LNode.h"
 #import "Tree.h"
 #import "ArrayRelate.h"
+#import "Fork.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-//         bubbleTest();
-         quickSortTest();
-//         helloWorld();
+//        bubbleTest();
+//        quickSortTest();
 //        lnodeTest();
 //        treeTest();
 //        maxSequenceSumTest();
-        NSLog(@"Hello world");
+        forkTest();
     }
     return 0;
 }
