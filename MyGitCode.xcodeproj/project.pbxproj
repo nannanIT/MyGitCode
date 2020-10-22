@@ -39,6 +39,8 @@
 		E8B28E74253E9E8900D9ADC9 /* Fork.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fork.c; sourceTree = "<group>"; };
 		E8B28FA8253EED4900D9ADC9 /* Git.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Git.md; sourceTree = "<group>"; };
 		E8B28FAB253EEDE800D9ADC9 /* git.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = git.jpg; sourceTree = "<group>"; };
+		E8B2902C25416A7F00D9ADC9 /* Interrupt.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Interrupt.md; sourceTree = "<group>"; };
+		E8B2902E25416BCA00D9ADC9 /* Https.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Https.md; sourceTree = "<group>"; };
 		E8C216412519DDCE00805732 /* ArrayRelate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ArrayRelate.h; sourceTree = "<group>"; };
 		E8C216422519DDCE00805732 /* ArrayRelate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ArrayRelate.m; sourceTree = "<group>"; };
 		E8C216452519DDE200805732 /* LNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LNode.h; sourceTree = "<group>"; };
@@ -151,6 +153,8 @@
 				E8C87101253977A5003701C9 /* Bochs.md */,
 				E8C87392253BC684003701C9 /* Education.md */,
 				E8254180251F1BD2000A7D90 /* TypeWrite.md */,
+				E8B2902C25416A7F00D9ADC9 /* Interrupt.md */,
+				E8B2902E25416BCA00D9ADC9 /* Https.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";
