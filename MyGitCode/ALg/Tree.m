@@ -23,6 +23,10 @@
     return self;
 }
 
+- (BOOL)hasChild {
+    return self.leftChild != nil || self.rightChild != nil;
+}
+
 @end
 
 void visit(TreeNode *node) {
@@ -103,6 +107,32 @@ void insertSortNode(TreeNode *node, NSInteger value) {
     }
 }
 
+void reverseTree(TreeNode *tree) {
+    if (nil == tree) {
+        return;
+    }
+    // 先翻转整棵树，再翻转左右子树
+    // 先整体再局部
+    TreeNode *rightChlid = tree.rightChild;
+    tree.rightChild = tree.leftChild;
+    tree.leftChild = rightChlid;
+    reverseTree(tree.leftChild);
+    reverseTree(tree.rightChild);
+}
+
+void reverseTree1(TreeNode *tree) {
+    if (nil == tree) {
+        return;
+    }
+    // 先分别翻转左右子树
+    // 先局部再整体
+    reverseTree(tree.leftChild);
+    reverseTree(tree.rightChild);
+    TreeNode *rightChlid = tree.rightChild;
+    tree.rightChild = tree.leftChild;
+    tree.leftChild = rightChlid;
+}
+
 void testInsertSort() {
     TreeNode *tree = [[TreeNode alloc] initWithValue:6];
     NSInteger A[] = {6, 2, 4, 5, 3, 8 , 1, 7};
@@ -131,7 +161,10 @@ void treeTest() {
 //    preTravelTree(tree1);
 //    inTravelTree(tree1);
 //    postTravelTree(tree1);
-    testInsertSort();
+//    testInsertSort();
+//    reverseTree1(tree1);
+    reverseTree1(tree1);
+    preTravelTree(tree1);
 }
 
 @implementation Tree

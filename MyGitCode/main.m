@@ -17,9 +17,9 @@ int main(int argc, const char * argv[]) {
 //        bubbleTest();
 //        quickSortTest();
 //        lnodeTest();
-//        treeTest();
+        treeTest();
 //        maxSequenceSumTest();
-        forkTest();
+//        forkTest();
     }
     return 0;
 }

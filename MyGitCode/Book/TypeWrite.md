@@ -15,6 +15,8 @@ int or bool is a simple symbol
 NBA is my favorite hobby, where amazing happens. 
 
 NBA is my favorite hobby.
+My teacher teach you IP information technology quickly.
+NBA is my favorite hobby.
 
 it you we return quickly open look join give ip to to it talk too two two too yellow play rude 
 deep mind voice
@@ -34,3 +36,10 @@ close write read file error while while if while while while while while bufffer
 
 foundation foundation foundation
 foundation hello world foundation while while while buffer while
+
+webview webview webview webview handler self share self add script add script script script webview webview webview hello world self add webview
+script script add find webview view webview we can webview handler hello world you script script script script script script script script quickly quickly quickly config configuration main open webview self.self. [] [] [] []-void void void void - = [] [] ; '' ,.void void void void void void void webview webview video big webview 
+
+1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./
+hello world you can check it carefully ip ip ip open it for me mind webview
+webview webview webview webvuew return view void webview view view view view webview self self share add script quickly ert teacher teacher teacher teacher void void void void self configuration main handler webview vb vb vb bg config config config config config configuration configuration carefully hello world check webview hello world 
