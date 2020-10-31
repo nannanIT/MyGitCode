@@ -15,8 +15,9 @@ int or bool is a simple symbol
 NBA is my favorite hobby, where amazing happens. 
 
 NBA is my favorite hobby.
-My teacher teach you IP information technology quickly.
-NBA is my favorite hobby.
+My techer teach you IP information technology quickly.
+NBA is my favorite hobby. My techer tech me you IP information technology quickly.
+image picture true false picture tree actual act actor actor act actual picture tree node.
 
 it you we return quickly open look join give ip to to it talk too two two too yellow play rude 
 deep mind voice
@@ -42,4 +43,13 @@ script script add find webview view webview we can webview handler hello world y
 
 1234567890-=qwertyuiop[]asdfghjkl;'zxcvbnm,./
 hello world you can check it carefully ip ip ip open it for me mind webview
-webview webview webview webvuew return view void webview view view view view webview self self share add script quickly ert teacher teacher teacher teacher void void void void self configuration main handler webview vb vb vb bg config config config config config configuration configuration carefully hello world check webview hello world 
+webview webview webview webvuew return view void webview view view view view webview self self share add script quickly ert teacher teacher teacher teacher void void void void self configuration main handler webview vb vb vb bg config config config config config configuration configuration carefully hello world check webview hello world
+
+NSURLSession is a replacement API for NSURLConnection. It provides options that affect the policy of, and various aspects of the mechainsm by which NURLRequest objects are retrievef from the network.
+NSURLSession is a replacement API for NSURLConnection.
+NSURLSession is a replacement API for NSURLConnection.
+pod install
+bundle exec pod install
+
+rm -rf Pods/
+rm -rf "${HOME}/Library/Caches/CocoaPods"
