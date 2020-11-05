@@ -82,7 +82,7 @@ binary_pod 'BAEngine',             '~> 0.6.0'
 pod 'BAEngine',             '~> 0.6.0'
 ```
 
-### 5. 开发使用流程
+## 5. 开发使用流程（重点）
 相关命令都集成在podsCache.sh中
 ![命令行交换](./podsCache.png)
 
@@ -107,5 +107,13 @@ sh podsCache.h (回车）
 sh podsCache.h (回车）
 2   （push）
 ```
+- 使用alias缩减命令行使用
+```
+alias pbc = 'sh podsCache.sh'
 
-### 6. 操作演示
+// 本地持久保存alias
+vi ~/.zshrc
+source ~/.zshrc
+```
+
+### 6. 蓝盾配置

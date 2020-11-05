@@ -59,6 +59,7 @@
 		E8C870D52536F9B2003701C9 /* Compile.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Compile.md; sourceTree = "<group>"; };
 		E8C87101253977A5003701C9 /* Bochs.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Bochs.md; sourceTree = "<group>"; };
 		E8C87392253BC684003701C9 /* Education.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Education.md; sourceTree = "<group>"; };
+		E8E2B9FF2553A6E900CD00AB /* Linux.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Linux.md; sourceTree = "<group>"; };
 		E8FE2518251C47C000E08D8C /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
 		E8FE2519251C47C000E08D8C /* Stack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Stack.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -163,6 +164,7 @@
 				E82B2093254FA24D0075A141 /* AboutPath.md */,
 				E82B2090254E93B20075A141 /* PodsBinaryCache.md */,
 				E82B2091254E9E5C0075A141 /* podsCache.png */,
+				E8E2B9FF2553A6E900CD00AB /* Linux.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";
