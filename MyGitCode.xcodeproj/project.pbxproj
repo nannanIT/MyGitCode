@@ -39,6 +39,7 @@
 		E82B2090254E93B20075A141 /* PodsBinaryCache.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = PodsBinaryCache.md; sourceTree = "<group>"; };
 		E82B2091254E9E5C0075A141 /* podsCache.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = podsCache.png; sourceTree = "<group>"; };
 		E82B2093254FA24D0075A141 /* AboutPath.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = AboutPath.md; sourceTree = "<group>"; };
+		E8581A8225622E50006DEABE /* Thread.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Thread.md; sourceTree = "<group>"; };
 		E87DF2FC25455D18004A35DF /* SourceCodeRead.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SourceCodeRead.md; sourceTree = "<group>"; };
 		E8B28E73253E9E8900D9ADC9 /* Fork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fork.h; sourceTree = "<group>"; };
 		E8B28E74253E9E8900D9ADC9 /* Fork.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fork.c; sourceTree = "<group>"; };
@@ -175,6 +176,7 @@
 				E82B2090254E93B20075A141 /* PodsBinaryCache.md */,
 				E82B2091254E9E5C0075A141 /* podsCache.png */,
 				E8E2B9FF2553A6E900CD00AB /* Linux.md */,
+				E8581A8225622E50006DEABE /* Thread.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";
