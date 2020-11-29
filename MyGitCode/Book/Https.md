@@ -2,6 +2,9 @@
 
 https://zhuanlan.zhihu.com/p/27395037
 
+socket三次握手
+https://juejin.cn/post/6844903958624878606
+
 状态码
 类别    原因短语
 1xx    Informational（信息性状态码）    接受的请求正在处理
