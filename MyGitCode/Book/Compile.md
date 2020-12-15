@@ -3,7 +3,10 @@
 gcc -E main.c -o main.i
 gcc -S main.c -o mian.s
 gcc -c main.c -o mian.o
+目标文件。多个目标文件+库链接起来就是可执行文件
 gcc main.c -o main.out
+main.out 是编译代码后生成的可执行文件。 ./main.out 可以执行
+
 file mian.o
 objdump -d main.o
 ```

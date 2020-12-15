@@ -30,6 +30,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E811F40C258626B0002B44ED /* 指针.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "指针.md"; sourceTree = "<group>"; };
+		E811F40D25864C30002B44ED /* life签名.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "life签名.md"; sourceTree = "<group>"; };
 		E818B59525182D0D00D77A2E /* MyGitCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyGitCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		E818B59825182D0D00D77A2E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E818B5A625182D6100D77A2E /* Sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sort.h; sourceTree = "<group>"; };
@@ -37,6 +39,7 @@
 		E8254180251F1BD2000A7D90 /* TypeWrite.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = TypeWrite.md; sourceTree = "<group>"; };
 		E82A0C1D255824E700D0BACC /* 西游记.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "西游记.md"; sourceTree = "<group>"; };
 		E82B2093254FA24D0075A141 /* AboutPath.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = AboutPath.md; sourceTree = "<group>"; };
+		E851C3CA25806E73006C23B4 /* 哲学.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "哲学.md"; sourceTree = "<group>"; };
 		E8581A8225622E50006DEABE /* Thread.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Thread.md; sourceTree = "<group>"; };
 		E87DF2FC25455D18004A35DF /* SourceCodeRead.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = SourceCodeRead.md; sourceTree = "<group>"; };
 		E891C86A257358150025398B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -175,6 +178,9 @@
 				E8E2B9FF2553A6E900CD00AB /* Linux.md */,
 				E8581A8225622E50006DEABE /* Thread.md */,
 				E891C86A257358150025398B /* README.md */,
+				E851C3CA25806E73006C23B4 /* 哲学.md */,
+				E811F40C258626B0002B44ED /* 指针.md */,
+				E811F40D25864C30002B44ED /* life签名.md */,
 			);
 			path = Book;
 			sourceTree = "<group>";
