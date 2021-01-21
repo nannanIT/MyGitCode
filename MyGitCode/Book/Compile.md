@@ -7,6 +7,11 @@ gcc -c main.c -o mian.o
 gcc main.c -o main.out
 main.out 是编译代码后生成的可执行文件。 ./main.out 可以执行
 
+ld命令是GNU的连接器，将目标文件连接为可执行程序。
+很少单独使用ld命令对目标进行连接操作，通常都是使用gcc命令在编译后自动进行连接。
+将文件“/lib/linux265_1.o”与“ linux265_2 .o”和库“linux265_3.a”链接起来，生成一个名为 linux265_4的文件，该文件将来自标准搜索目录：
+ld -o linux265_4 /lib/linux265_1.o linux265_2 .o -lc
+
 file mian.o
 objdump -d main.o
 ```
